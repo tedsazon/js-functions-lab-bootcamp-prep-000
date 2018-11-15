@@ -1,3 +1,3 @@
-function say('happyHolidays') {
-  return `${'happyHolidays'}`
+function happyHolidays(string) {
+  return "Happy Holidays!"
 }
